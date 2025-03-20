@@ -1,5 +1,5 @@
-# お天気アプリ
-OpenWeatherMap API を利用してリアルタイムの天気情報を取得し、表示するお天気アプリのPythonのttkbootstrap版になります。
+# お天気アプリ(Python ttkbootstrap版)
+OpenWeatherMap API を利用してリアルタイムの天気情報を取得し、表示するお天気アプリのPython ttkbootstrap版になります。
 
 ![スクショ](Screenshot1.png)
 ![スクショ](Screenshot2.png)
